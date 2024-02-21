@@ -1,0 +1,22 @@
+{
+  "name": "kx-abp-admin-tpl",
+  "version": "1.0.0",
+  "description": "基于abp后台管理系统的模板脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-kxAbpAdminTpl": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiongchaoren/kx-abp-admin-tpl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiongchaoren/kx-abp-admin-tpl/issues"
+  },
+  "homepage": "https://github.com/xiongchaoren/kx-abp-admin-tpl#readme"
+}
