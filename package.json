@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "create-kxAbpAdminTpl": "./index.js"
+    "create-kx-abp-admin-tpl": "./index.js"
   },
   "repository": {
     "type": "git",
